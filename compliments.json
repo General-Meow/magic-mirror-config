@@ -1,0 +1,24 @@
+{
+	"day_sunny": [
+		"Today is a sunny day",
+		"Today is a beautiful day"
+	],
+	"snow": [ "It's snowing today, bring gloves" ],
+	"rain": [
+		"It's going to rain :(",
+		"It's raining today, bring an umbrella"
+	],
+	"anytime": [
+		"It could be that your purpose in life is to serve as a warning to others",
+		"The light at the end of the tunnel has been turned off due to budget cuts",
+		"Hope is the first step on the road to disappointment",
+		"We learn from experience that men never learn anything from experience",
+		"Do not take life too seriously. You will never get out alive",
+		"Life is like riding a bicycle. To keep your balance, you must keep moving",
+		"Everything happens for a reason, Sometimes the reason is you're stupid and make bad decisions",
+		"Every dead body on Mt. Everest was once a highly motivated person, so... maybe calm down",
+		"Light travels faster than sound. This is why some people appear bright until you hear them speak",
+		"Idiocy - never underestimate the power of stupid people in large groups",
+		"If life doesn't break you today, don't worry it will try again tomorrow"
+	]
+}
